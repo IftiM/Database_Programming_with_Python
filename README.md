@@ -1,4 +1,4 @@
-# Database_Programming_with_Python
+# SQL_Programming_with_Python
 A simple application for Customer Helpdesk Team, using Python and SQL-Server,
 utilizing CRUD, ETL and OOP
 
