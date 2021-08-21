@@ -1,5 +1,6 @@
 # Database_Programming_with_Python
-A simple application for Customer Helpdesk Team, utilizing CRUD, ETL and OOP
+A simple application for Customer Helpdesk Team, using Python and SQL-Server,
+utilizing CRUD, ETL and OOP
 
 Platform and drivers in use:
 SQL Server, Python, PYODBC, Jupyter Notebook
